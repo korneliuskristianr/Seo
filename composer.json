@@ -1,10 +1,16 @@
 {
     "name": "grouphub/seo",
-    "description": "",
+    "description": "Seo Tools For Laravel 4.2",
     "authors": [
         {
             "name": "Kornelius Kristian R",
             "email": "korneliuskristian@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/korneliuskristianr/seo"
         }
     ],
     "require": {
