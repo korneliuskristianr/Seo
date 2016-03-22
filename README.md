@@ -3,7 +3,10 @@ Original code is from [https://github.com/niallkennedy/open-graph-protocol-tools
 
 ## How to install
 > composer require grouphub/seo
-***then**
+
+__then__
+
+
 > Add "Grouphub\Seo\SeoServiceProvider" into you app/config/app.php
 
 ## Feature
